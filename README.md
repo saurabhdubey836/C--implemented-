@@ -1,2 +1,2 @@
-# C--implemented-
-This repository includes various c- codes and their projects such as sorting and searching
+# C--Graphics
+This repository includes various c- graphics codes and their projects such as Line algorithm . Please specify the file in initgraph()
